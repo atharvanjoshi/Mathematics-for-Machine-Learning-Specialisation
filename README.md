@@ -1,2 +1,2 @@
-# Maths-for-ML-Linear-Algebra
-Mathematics for Machine Learning. All Coursera Assignments
+# Maths-for-ML-Specialisation
+Mathematics for Machine Learning Specialisation. All Coursera Assignments
